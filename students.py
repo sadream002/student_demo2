@@ -3,5 +3,5 @@ students = [
     {"name": "lisi", "student_id": "20250002"},
 ]
 
-for student in students:
-    print(f"Name: {student['name']}, Student ID: {student['student_id']}")
+#for student in students:
+#    print(f"Name: {student['name']}, Student ID: {student['student_id']}")
